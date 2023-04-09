@@ -19,6 +19,8 @@ public class euler_2 {
                 sum += c;
             }
         }
+        System.out.println("test");
+
         System.out.println(sum);
     }
 }
